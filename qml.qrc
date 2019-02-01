@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>LeftToolBar.qml</file>
+        <file>MenuBarToolBar.qml</file>
+        <file>ClassroomStatus.qml</file>
+        <file>EmployeeeList.qml</file>
+        <file>AddClassRoomPage.qml</file>
+        <file>SubjectsList.qml</file>
+        <file>AddClassSchedule.qml</file>
+        <file>AddEmployee.qml</file>
+        <file>AddDepartment.qml</file>
+        <file>Custom/Custom_ComboBox.qml</file>
+        <file>AddSubject.qml</file>
+        <file>Images/Denied.png</file>
+        <file>Images/Verified.png</file>
+        <file>Custom/ImageTransistion.qml</file>
+        <file>AddImagesToEmployee.qml</file>
+        <file>SpecialAccess.qml</file>
+    </qresource>
+</RCC>
